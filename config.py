@@ -10,7 +10,6 @@ PORT = 443
 # hexdump -vn "16" -e ' /1 "%02x"' /dev/urandom
 USERS = {
     "user_fast_01": "e4a9c1b2d6e0f7a5d3c8b9a1e2f7c4f8",
-    "user_fast_02": "f8e4a9c1b2d6e0f7a5d3c8b9a1e2f7c4",
 }
 
 # -----------------------------------------------------------------
